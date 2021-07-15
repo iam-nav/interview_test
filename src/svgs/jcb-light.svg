@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="26" viewBox="0 0 40 26">
+  <g id="jcb-light" transform="translate(-0.177 -0.304)">
+    <rect id="card_bg" width="40" height="26" rx="2" transform="translate(0.177 0.304)" fill="#dfe3e8"/>
+    <g id="jcb-logo" transform="translate(6.32 2.964)">
+      <rect id="Rectangle" width="8.471" height="8.815" transform="translate(0.034 6.043)" fill="#fff"/>
+      <rect id="Rectangle-2" data-name="Rectangle" width="8.488" height="10.106" transform="translate(9.538 5.527)" fill="#fff"/>
+      <rect id="Rectangle-3" data-name="Rectangle" width="8.488" height="10.623" transform="translate(19.042 5.199)" fill="#fff"/>
+      <path id="Path" d="M0,1.773H2.238A.861.861,0,0,0,2.927.9.912.912,0,0,0,2.238,0H0Z" transform="translate(20.746 10.778)" fill="#40a648"/>
+      <path id="Path-2" data-name="Path" d="M3.5,0A3.443,3.443,0,0,0,.052,3.443V7.024H5.217c1.1,0,1.911.62,1.911,1.6a1.6,1.6,0,0,1-1.567,1.567v.138a1.782,1.782,0,0,1,1.963,1.722c0,1.033-.947,1.722-2.187,1.722H0V20.66H5.1A3.443,3.443,0,0,0,8.54,17.217V0Z" transform="translate(19.007)" fill="#40a648"/>
+      <path id="Path-3" data-name="Path" d="M2.686.809A.809.809,0,0,0,1.98,0H0V1.722H1.98A.826.826,0,0,0,2.686.9Z" transform="translate(20.746 8.057)" fill="#40a648"/>
+      <path id="Path-4" data-name="Path" d="M3.443,0A3.443,3.443,0,0,0,0,3.443v8.488a6.663,6.663,0,0,0,2.961.775A1.722,1.722,0,0,0,4.8,10.984V7.007H7.782v3.977c0,1.567-.9,2.789-4.235,2.789A14.617,14.617,0,0,1,.1,13.343V20.66H5.062a3.443,3.443,0,0,0,3.443-3.443V0Z" fill="#0d67b0"/>
+      <path id="Path-5" data-name="Path" d="M3.443,0A3.443,3.443,0,0,0,0,3.443V7.954A6.887,6.887,0,0,1,4.838,6.887a15.185,15.185,0,0,1,2.7.413V8.763a6.439,6.439,0,0,0-2.617-.758c-1.859-.138-2.961.775-2.961,2.359s1.1,2.514,2.961,2.359a6.715,6.715,0,0,0,2.617-.758v1.463a14.548,14.548,0,0,1-2.7.413A6.887,6.887,0,0,1,0,12.74v7.92H5.062a3.443,3.443,0,0,0,3.443-3.443V0Z" transform="translate(9.538)" fill="#be2034"/>
+    </g>
+  </g>
+</svg>
